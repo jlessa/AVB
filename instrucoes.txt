@@ -1,0 +1,6 @@
+nchaves
+nfilhos
+folha?
+chaves[]
+filhos[]
+pai?
